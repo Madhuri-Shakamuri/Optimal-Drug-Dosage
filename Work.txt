@@ -1,0 +1,19 @@
+Optimal Drug Dosage Control Strategy of Immune Systems Using Reinforcement Learning    
+
+
+
+IEEE Transaction on Knowledge and Data Engineering,Volume:11,Issue Date:02.January.2023
+
+
+
+Fid	
+drug_name	
+medical_condition	
+medical_condition_description	
+dosage_control_activity	
+rx_otc	
+pregnancy_category	
+csa	
+medical_condition_url	
+drug_link
+Hashcode
